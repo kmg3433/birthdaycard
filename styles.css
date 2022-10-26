@@ -1,0 +1,76 @@
+body {
+  height: auto;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  background-color: pink;
+  font-family: "Orbitron", sans-serif;
+  font-family: "Titillium Web", sans-serif;
+  font-weight: bold;
+  color: whitesmoke;
+}
+#char-img {
+  width: 300px;
+  border-radius: 50%;
+  border: 5px solid rgb(255, 243, 245);
+}
+#font {
+  font-size: 40px;
+}
+#underline {
+  text-decoration: underline;
+}
+.background-color {
+  background-color: rgb(185, 224, 255);
+  padding: 3px 10px;
+  border-radius: 10px;
+}
+.info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.content {
+  margin: 10px auto;
+}
+.img-card {
+  width: 500px;
+  height: 315px;
+  background-position: center;
+  margin: 5px auto;
+}
+.title {
+  margin: 10px auto;
+}
+#almost30 {
+  background-image: url("images/sis1.JPG");
+}
+#almost30:hover {
+  background-image: url("images/almost30.gif");
+}
+#sibling {
+  background-image: url("images/sis0.jpg");
+  background-size: cover;
+}
+#sibling:hover {
+  background-image: url("images/sibling.gif");
+}
+#cake {
+  background-image: url("images/sis2.png");
+  background-size: cover;
+}
+#cake:hover {
+  background-image: url("images/cake.gif");
+}
+#yo {
+  background-image: url("images/sis3.jpg");
+  background-size: cover;
+}
+#yo:hover {
+  background-image: url("images/yo sista.gif");
+}
+#happy {
+  background-image: url("images/happy birthday.gif");
+}
