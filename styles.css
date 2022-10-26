@@ -43,7 +43,10 @@ body {
   margin: 5px auto;
 }
 .title {
-  margin: 10px auto;
+  margin: 5px auto;
+}
+.click {
+  margin: 3px auto;
 }
 #almost30 {
   background-image: url("images/sis1.JPG");
