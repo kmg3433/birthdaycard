@@ -6,6 +6,7 @@ body {
   align-items: center;
   text-align: center;
   background-color: pink;
+  background: linear-gradient(pink, skyblue);
   font-family: "Orbitron", sans-serif;
   font-family: "Titillium Web", sans-serif;
   font-weight: bold;
